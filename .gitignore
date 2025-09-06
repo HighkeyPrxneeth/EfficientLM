@@ -1,0 +1,6 @@
+/data/subsets
+/checkpoints
+/.vscode
+*.bin
+/models
+*/**/__pycache__
